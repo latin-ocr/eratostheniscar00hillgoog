@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./eratostheniscar00hillgoog/eratostheniscar00hillgoog_0006.png"; bbox 0 0 948 1392; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 298 113 894 286">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 298 113 894 286">
+     <span class='ocr_line' id='line_1_1' title="bbox 871 113 894 172; baseline -0.043 -7"><span class='ocrx_word' id='word_1_1' title='bbox 871 113 894 172; x_wconf 64' lang='grc' dir='ltr'>ἓ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 298 221 835 286; baseline -0.047 1"><span class='ocrx_word' id='word_1_2' title='bbox 298 221 673 286; x_wconf 72' lang='lat' dir='ltr'><strong>RATOSTHENfs</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 697 249 835 281; x_wconf 52' lang='lat' dir='ltr'>sm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 184 372 754 409">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 184 372 754 409">
+     <span class='ocr_line' id='line_1_3' title="bbox 184 372 754 409; baseline -0.002 -6"><span class='ocrx_word' id='word_1_4' title='bbox 184 372 452 403; x_wconf 79' lang='lat' dir='ltr'><strong>OARMINVM</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 481 372 754 409; x_wconf 80' lang='lat' dir='ltr'><strong>RELIQVIAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 350 520 586 539">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 350 520 586 539">
+     <span class='ocr_line' id='line_1_4' title="bbox 350 520 586 539; baseline -0.004 0"><span class='ocrx_word' id='word_1_6' title='bbox 350 527 439 539; x_wconf 64' lang='lat' dir='ltr'><strong>Dlsposvn·</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 451 520 586 539; x_wconf 37' lang='lat' dir='ltr'>EEEEEEEEEEEEE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 405 804 536 937">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 405 804 536 937">
+     <span class='ocr_line' id='line_1_5' title="bbox 405 804 536 937; baseline 0 455"><span class='ocrx_word' id='word_1_8' title='bbox 405 804 536 937; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 322 1130 618 1144">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 322 1130 618 1144">
+     <span class='ocr_line' id='line_1_6' title="bbox 322 1130 618 1144; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 322 1131 366 1144; x_wconf 74' lang='lat' dir='ltr'>{NA</span> <span class='ocrx_word' id='word_1_10' title='bbox 370 1130 618 1144; x_wconf 72' lang='lat' dir='ltr'>EEEEEEEEEEEEEEEEEE</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
